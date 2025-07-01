@@ -1,0 +1,12 @@
+{
+    "server1": {
+        "domain": "kantinpublic.nyl.web.id",
+        "ptla": "ptla_QWERTY9999999",
+        "ptlc": "ptlc_ASDFGH8888888"
+    },
+    "server2": {
+        "domain": "freezing.indopanel.my.id",
+        "ptla": "ptla_ABCDEFG1234567",
+        "ptlc": "ptlc_HIJKLMN7654321"
+    }
+}
