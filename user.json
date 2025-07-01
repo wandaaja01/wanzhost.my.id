@@ -1,0 +1,12 @@
+[
+    {
+        "username": "admin",
+        "password": "wanz123",
+        "accessKey": "A1b2C3d4E5f6G7h8"
+    },
+    {
+        "username": "testuser",
+        "password": "testpass",
+        "accessKey": "Z9y8X7w6V5u4T3s2"
+    }
+]
