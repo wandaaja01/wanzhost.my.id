@@ -1,6 +1,6 @@
 {
   "server1": {
-    "domain": "https://wanz-infinity.onlinepanel.my.id",
+    "domain": "wanz-infinity.onlinepanel.my.id/admin/api",
     "ptla": "ptla_tGcG81Lu3qHu9LqCoeu4AB9SCcVkPB2vnpUIegwdETe",
     "ptlc": "ptlc_6LmNmSVBEdeT4xjRDxMf6ESL9GH5jFMEXzZP4ptxAFl"
   },
